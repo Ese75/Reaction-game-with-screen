@@ -17,3 +17,4 @@ SDA	-> A4
 
 SCL ->	A5
 
+![Circuit Diagram](Reactiongame_screen.jpg)
